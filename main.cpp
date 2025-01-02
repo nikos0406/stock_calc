@@ -15,7 +15,7 @@ int main() {
         clearScreen();
 
         std::cout << "\033[1;32m"
-                  << "                   Welcome to the Compound Interest Calculator!\n"
+                  << "                   Compound Interest Calculator!\n"
                   << "\033[0m"
                   << std::endl;
 
